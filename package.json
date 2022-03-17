@@ -1,0 +1,19 @@
+{
+  "name": "lvims",
+  "version": "1.0.0",
+  "description": "2nd time to commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QxChristopherRoss/lvims-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QxChristopherRoss/lvims-app/issues"
+  },
+  "homepage": "https://github.com/QxChristopherRoss/lvims-app#readme"
+}
